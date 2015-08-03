@@ -27,4 +27,6 @@ for($j=0;$j<100;$j++){
 echo $j*1;
 
 }
+
+//chnages are in develoment by admin
 ?>
